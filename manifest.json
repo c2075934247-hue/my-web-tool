@@ -6,8 +6,14 @@
   "orientation": "any",
   "scope": "/",
   "short_name": "每日伴侣",
-  "start_url": "/",
+  "start_url": "/my-web-tool/",
   "theme_color": "#ffffff",
   "description": "这是一个我自己的日记本",
-  "id": "001"
-}
+  "id": "001",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
